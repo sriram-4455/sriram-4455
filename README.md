@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and cloud computing
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on AI related projects
-- 📫 How to reach me 
+- 📫 Mail me Vakamallasriramcharan@gmail.com
 
 <!---
 sriram-4455/sriram-4455 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
